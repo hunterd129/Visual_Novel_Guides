@@ -6,16 +6,16 @@
 * Sincerely compliment her again
 * **[SAVE 1]**
 * Ask Ayachi-san to do it
-* **[SAVE 2]**
 * See the movie later
+* **[SAVE 2]**
 * Get going
 * Maybe, yeah
 * Answer her honestly
 * Tell her the truth
 * Put Classical Japanese aside for now
-* **[SAVE 3]**
+* Ask her to do it one more time
 * Look away
-* **[SAVE 4]**
+* **[SAVE 3]**
 * Probably Ayachi-san
 
 ### **Ayachi Nene 2nd Route**
@@ -32,15 +32,15 @@
 * Have Togakushi-senpai tutor me
 * … I can't say it
 * Compliment her
-* **[SAVE 5]**
+* **[SAVE 4]**
 * Inaba-san, I guess
 
 ### **Shiiba Tsumugi**
-* **[LOAD 4]**
+* **[LOAD 3]**
 * The band is more important
 
 ### **Togakushi Touko**
-* **[LOAD 5]**
+* **[LOAD 4]**
 * Hmm… Togakushi-senpai?
 
 ### **Kariya Wakana**
@@ -52,6 +52,6 @@
 * Have Togakushi-senpai tutor me
 
 ### **Normal Ending**
-* **[LOAD 5]**
+* **[LOAD 4]**
 * The band is more important
 
