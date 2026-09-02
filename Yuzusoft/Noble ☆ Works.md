@@ -1,8 +1,12 @@
 # **Noble ☆ Works**
 
+![Noble works Cover Art](imgs/coverArt/nobleWorks.jpg)
+
 ## **Route Guideline**
 
 ### **Kanemoto Akari**
+
+![Akari](imgs/charArt/nobleWorks/akari.jpg)
 * Take the job
 * **[SAVE 1]**
 * I think she's cute
@@ -29,6 +33,8 @@
 * Go to check on her
 
 ### **Tsukiyama Sena**
+
+![Sena](imgs/charArt/nobleWorks/sena.jpg)
 * **[LOAD 1]**
 * I guess she's average…
 * **[SAVE 2]**
@@ -58,6 +64,8 @@
    * Yes, a gentleman. A gentlemanly type of pervert -> h-scene
 
 ### **Kunihiro Hinata**
+
+![Hinata](imgs/charArt/nobleWorks/hinata.jpg)
 * **[LOAD 2]**
 * Report on what happened until now
 * Well, if possible…
@@ -78,6 +86,8 @@
 * She should be all right
 
 ### **Masamune Shizuru**
+
+![Shizuru](imgs/charArt/nobleWorks/shizuru.jpg)
 * **[LOAD 5]**
 * Give a hint
 * Ignore it and return home
@@ -88,6 +98,8 @@
 * She should be all right
 
 ### **Nagamitsu Maya**
+
+![Maya](imgs/charArt/nobleWorks/maya.jpg)
 * **[LOAD 5]**
 * Watch
 * Accompany Maya until she leaves
@@ -101,6 +113,8 @@
 * She should be all right
 
 ### **Yasutsuna Hotaru (Bonus Route)**
+
+![Hotaru](imgs/charArt/nobleWorks/hotaru.jpg)
 * **[LOAD 3]**
 * Search outside the academy
 * Well, if possible…

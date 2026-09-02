@@ -1,8 +1,12 @@
 # **Dracu-Riot! Guide**
 
+![Dracu-riot! cover art](imgs/coverArt/dracuRiot.jpg)
+
 ## **ROUTE GUIDELINE**
 
 ### **Yarai Miu**
+
+![Miu](imgs/charArt/dracuRiot/miu.jpg)
 * **[SAVE 1]**
 * Go with Miu
 * **[SAVE 2]**
@@ -13,6 +17,8 @@
 * Offer to apply sunscreen for her
 
 ### **Mera Azusa**
+
+![Azusa](imgs/charArt/dracuRiot/azusa.jpg)
 * **[LOAD 1]**
 * Go with Mera
 * Bigger doesn't mean better
@@ -22,6 +28,8 @@
 * Have Mera help out
 
 ### **Inamura Rio**
+
+![Rio](imgs/charArt/dracuRiot/rio.jpg)
 * **[LOAD 2]**
 * Go big or go home
 * **[SAVE 3]**
@@ -32,6 +40,8 @@
 * Then i'm counting with you, Inamura-san
 
 ### **Elina Olegovna Obeh**
+
+![Elina](imgs/charArt/dracuRiot/elina.jpg)
 * **[LOAD 2]**
 * Girls aren't just about their breasts
 * Maybe not
@@ -41,6 +51,8 @@
 * Then i'm counting on you, Elina
 
 ### Nicola Cepheus (Side Route)
+
+![Nicola](imgs/charArt/dracuRiot/nicola.jpg)
 * **[LOAD 3]**
 * Maybe not
 * I can't possibly do that

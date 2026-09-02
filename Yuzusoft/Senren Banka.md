@@ -1,9 +1,13 @@
+
 # Senren Banka Guide
+
+![Senren * Banka Cover Art](imgs/coverArt/senrenBanka.jpg)
 
 ## **ROUTE GUIDELINE**
 
 ### Yoshino
 
+![Yoshino](imgs/charArt/senrenBanka/yoshino.jpg)
 * Tell her the truth
 * I'm not so sure...
 * I think you look cute
@@ -19,6 +23,7 @@
 
 ### Mako
 
+![Mako](imgs/charArt/senrenBanka/mako.jpg)
 * **[LOAD 1]**
 * Vegetable gathering
 * Praise her
@@ -27,6 +32,7 @@
 
 ### Murasame
 
+![Murasame](imgs/charArt/senrenBanka/murasame.jpg)
 * **[LOAD 1]**
 * Strike out on my own
 * Pat her head
@@ -35,6 +41,7 @@
 
 ### Lena
 
+![Lena](imgs/charArt/senrenBanka/lena.jpg)
 * **[LOAD 2]**
 * Praise her
 * I'm a little worried...
@@ -42,12 +49,14 @@
 
 ### Roka
 
+![Roka](imgs/charArt/senrenBanka/roka.jpg)
 * **[LOAD 4]**
 * Don't say anything unnecessary
 * Roka-nee's
 
 ### Koharu
 
+![Koharu](imgs/charArt/senrenBanka/koharu.jpg)
 * **[LOAD 4]**
 * Don't say anything unnecessary
 * Koharu's
