@@ -2,6 +2,8 @@
 ![Sabbat of the Witch cover Art](.imgs/coverArt/sabbatOfTheWitch.jpg)
 
 ## **Route Guideline**
+> [!NOTE]
+> Must clear one route before bonus route (Wakana) is available.
 
 ### **Ayachi Nene**
 ![Nene](.imgs/charArt/sabbatOfTheWitch/nene.jpg)
@@ -48,7 +50,7 @@
 * **[LOAD 4]**
 * Hmm… Togakushi-senpai?
 
-### **Kariya Wakana**
+### **Kariya Wakana (Bonus Route)**
 ![Wakana](.imgs/charArt/sabbatOfTheWitch/wakana.jpg)
 * **[LOAD 2]**
 * Eat something first

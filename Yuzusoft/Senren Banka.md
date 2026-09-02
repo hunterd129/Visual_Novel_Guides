@@ -2,6 +2,8 @@
 ![Senren * Banka Cover Art](.imgs/coverArt/senrenBanka.jpg)
 
 ## **ROUTE GUIDELINE**
+> [!NOTE]
+> Must clear one route before bonus routes (Koharu & Roka) are available.
 
 ### **Tomotake Yoshino**
 ![Yoshino](.imgs/charArt/senrenBanka/yoshino.jpg)
@@ -41,13 +43,13 @@
 * I'm a little worried...
 * Don't say anything unnecessary
 
-### **Maniwa Roka**
+### **Maniwa Roka (Bonus Route)**
 ![Roka](.imgs/charArt/senrenBanka/roka.jpg)
 * **[LOAD 4]**
 * Don't say anything unnecessary
 * Roka-nee's
 
-### **Kurama Koharu**
+### **Kurama Koharu (Bonus Route)**
 ![Koharu](.imgs/charArt/senrenBanka/koharu.jpg)
 * **[LOAD 4]**
 * Don't say anything unnecessary

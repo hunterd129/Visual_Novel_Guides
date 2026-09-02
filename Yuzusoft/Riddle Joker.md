@@ -3,6 +3,8 @@
 ![Riddle Joker Cover Art](.imgs/coverArt/riddleJoker.jpg)
 
 ## **ROUTE GUIDELINE**
+> [!NOTE]
+> Must clear one route before Bonus route (Chisaki) is available.
 
 ### **Mitsukasa Ayase**
 ![Ayase](.imgs/charArt/riddleJoker/ayase.jpg)
@@ -38,7 +40,7 @@
 * Go to the lab and ask Mayu-senpai
 * Mayu-senpai
 
-### **Mibu Chisaki**
+### **Mibu Chisaki (Bonus Route)**
 ![Chisaki](.imgs/charArt/riddleJoker/chisaki.jpg)
 * **[LOAD 5]**
 * Ask her

@@ -2,6 +2,8 @@
 ![Noble works Cover Art](.imgs/coverArt/nobleWorks.jpg)
 
 ## **Route Guideline**
+> [!NOTE]
+> Must clear one route before bonus route (Hotaru) is available.
 
 ### **Kanemoto Akari**
 ![Akari](.imgs/charArt/nobleWorks/akari.jpg)

@@ -2,6 +2,8 @@
 ![Dracu-riot! cover art](.imgs/coverArt/dracuRiot.jpg)
 
 ## **ROUTE GUIDELINE**
+> [!NOTE]
+> Must clear one route before bonus route (Nicola) is available.
 
 ### **Yarai Miu**
 ![Miu](.imgs/charArt/dracuRiot/miu.jpg)
@@ -45,7 +47,7 @@
 * Don't say anything
 * Then i'm counting on you, Elina
 
-### **Nicola Cepheus (Side Route)**
+### **Nicola Cepheus (Bonus Route)**
 ![Nicola](.imgs/charArt/dracuRiot/nicola.jpg)
 * **[LOAD 3]**
 * Maybe not

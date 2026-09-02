@@ -2,6 +2,8 @@
 ![Angelic Chaos Cover Art](.imgs/coverArt/angelicChaos.jpg)
 
 ## **ROUTE GUIDELINE**
+> [!NOTE]
+> Must clear one route before bonus routes (Orie & Fumika) are available.
 
 ### **Shirayuki Noa**
 ![Noa](.imgs/charArt/angelicChaos/noa.jpg)
@@ -53,7 +55,7 @@
 * Ask about something bothering me.
 * Go with her.
 
-### **Takadate Orie**
+### **Takadate Orie (Bonus Route)**
 ![Orie](.imgs/charArt/angelicChaos/orie.jpg)
 * **[LOAD 6]**
 * Orie.
@@ -61,7 +63,7 @@
 * Look by myself.
 * **[SAVE 7]**
 
-### **Ozato Fumika**
+### **Ozato Fumika (Bonus Route)**
 ![Fumika](.imgs/charArt/angelicChaos/fumika.jpg)
 * **[LOAD 5]**
 * I have some questions.
