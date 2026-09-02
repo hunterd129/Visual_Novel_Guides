@@ -1,12 +1,10 @@
 # **Angelic☆Chaos RE-BOOT!**
-
-![Angelic Chaos Cover Art](imgs/coverArt/angelicChaos.jpg)
+![Angelic Chaos Cover Art](.imgs/coverArt/angelicChaos.jpg)
 
 ## **ROUTE GUIDELINE**
 
 ### **Shirayuki Noa**
-
-![Noa](imgs/charArt/angelicChaos/noa.jpg)
+![Noa](.imgs/charArt/angelicChaos/noa.jpg)
 * **[SAVE 1]**
 * I have to resist...
 * **[SAVE 2]**
@@ -24,8 +22,7 @@
 * I want to, but...
 
 ### **Tanikaze Amane**
-
-![Amane](imgs/charArt/angelicChaos/amane.jpg)
+![Amane](.imgs/charArt/angelicChaos/amane.jpg)
 * **[LOAD 2]**
 * Take a break.
 * Inquire further.
@@ -41,16 +38,14 @@
 * Go with her.
 
 ### **Kohibari Kurumi**
-
-![Kurumi](imgs/charArt/angelicChaos/kurumi.jpg)
+![Kurumi](.imgs/charArt/angelicChaos/kurumi.jpg)
 * **[LOAD 6]**
 * Kohibari-san
 * Tell her she looks good.
 * Stay and watch over everyone's belongings.
 
 ### **Hoshikawa Kaguya**
-
-![Kaguya](imgs/charArt/angelicChaos/kaguya.jpg)
+![Kaguya](.imgs/charArt/angelicChaos/kaguya.jpg)
 * **[LOAD 4]**
 * Ask her.
 * I'm good for now.
@@ -59,8 +54,7 @@
 * Go with her.
 
 ### **Takadate Orie**
-
-![Orie](imgs/charArt/angelicChaos/orie.jpg)
+![Orie](.imgs/charArt/angelicChaos/orie.jpg)
 * **[LOAD 6]**
 * Orie.
 * Tell her she looks good.
@@ -68,8 +62,7 @@
 * **[SAVE 7]**
 
 ### **Ozato Fumika**
-
-![Fumika](imgs/charArt/angelicChaos/fumika.jpg)
+![Fumika](.imgs/charArt/angelicChaos/fumika.jpg)
 * **[LOAD 5]**
 * I have some questions.
 * Noa.
@@ -77,8 +70,7 @@
 * Go with her.
 
 ### **Mikuni Sairi (Bad End)**
-
-![Sairi](imgs/charArt/angelicChaos/sairi.jpg)
+![Sairi](.imgs/charArt/angelicChaos/sairi.jpg)
 * **[LOAD 1]**
 * I can't resist!
 

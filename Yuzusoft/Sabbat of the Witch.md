@@ -1,12 +1,10 @@
 # **Sabbat of the Witch**
-
-![Sabbat of the Witch cover Art](imgs/coverArt/sabbatOfTheWitch.jpg)
+![Sabbat of the Witch cover Art](.imgs/coverArt/sabbatOfTheWitch.jpg)
 
 ## **Route Guideline**
 
 ### **Ayachi Nene**
-
-![Ayachi Nene](imgs/charArt/sabbatOfTheWitch/nene.jpg)
+![Nene](.imgs/charArt/sabbatOfTheWitch/nene.jpg)
 * Sincerely compliment her again
 * **[SAVE 1]**
 * Ask Ayachi-san to do it
@@ -26,8 +24,7 @@
 * Select **RESTART** from title screen
 
 ### **Inaba Meguru**
-
-![Inaba Meguru](imgs/charArt/sabbatOfTheWitch/meguru.jpg)
+![Meguru](.imgs/charArt/sabbatOfTheWitch/meguru.jpg)
 * **[LOAD 1]**
 * Keep working with Inaba-san
 * … This is difficult
@@ -42,20 +39,17 @@
 * Inaba-san, I guess
 
 ### **Shiiba Tsumugi**
-
-![Shiiba Tsumugi](imgs/charArt/sabbatOfTheWitch/tsumugi.jpg)
+![Tsumugi](.imgs/charArt/sabbatOfTheWitch/tsumugi.jpg)
 * **[LOAD 3]**
 * The band is more important
 
 ### **Togakushi Touko**
-
-![Togakushi Touko](imgs/charArt/sabbatOfTheWitch/touko.jpg)
+![Touko](.imgs/charArt/sabbatOfTheWitch/touko.jpg)
 * **[LOAD 4]**
 * Hmm… Togakushi-senpai?
 
 ### **Kariya Wakana**
-
-![Kariya Wakana](imgs/charArt/sabbatOfTheWitch/wakana.jpg)
+![Wakana](.imgs/charArt/sabbatOfTheWitch/wakana.jpg)
 * **[LOAD 2]**
 * Eat something first
 * Maybe, yeah
