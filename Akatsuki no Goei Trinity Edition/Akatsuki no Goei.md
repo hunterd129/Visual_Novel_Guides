@@ -2,9 +2,10 @@
 
 ## **Route Guideline**
 
-### NOTE:
-*  **The majority of these choices do not effect which heroine's route you end up on, and are mearly focused on collecting extra CGs.**
-   * **The only choices that actually matters are the ones right after Save slot 1.**
+> [!NOTE]
+>  The majority of these choices do not effect which heroine's route you end up on, and are merely focused on collecting extra CGs.
+> 
+> The only choices that actually matters are the ones right after Save slot 1.
 
 ### **Nikaidou Reika**
 * Stay in my room
