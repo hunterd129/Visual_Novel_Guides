@@ -118,7 +118,7 @@
 
 ### **Nikaidou Reika - true end**
 ![Reika](.imgs/charArt/reika.jpg)
-* **NOTE: Must clear Kaoru & Reika bad end**
+> **NOTE: Must clear Kaoru & Reika bad end**
 * **[LOAD 5]**
 * Talk to her
 * Sit with Yuuki
@@ -127,7 +127,7 @@
 
 ### **Mai**
 ![Mai](.imgs/charArt/mai.jpg)
-* **NOTE: Must clear Reika true end**
+> **NOTE: Must clear Reika true end**
 * **[LOAD 4]**
 * Shouko requires my attention now
 * Collecting things
