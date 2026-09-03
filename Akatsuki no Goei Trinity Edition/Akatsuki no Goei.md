@@ -1,7 +1,7 @@
 # **Akatsuki no Goei**
 
 ## **Route Guideline**
-![Cover Art](.imgs/coverArt/akatsukiNoGoei.jpg)
+![Cover Art](.imgs/coverArt/akatsuki.png)
 
 > [!NOTE]
 >  The majority of these choices do not effect which heroine's route you end up on, and are merely focused on collecting extra CGs.

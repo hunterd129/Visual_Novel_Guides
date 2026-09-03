@@ -1,7 +1,7 @@
-# **Akatsuki no Goei**
+# **Akatsuki no Goei Principal-tachi no Kyuujitsu**
 
 ## **Route Guideline**
-![Cover Art](.imgs/coverArt/akatsukiNoGoei.jpg)
+![Cover Art](.imgs/coverArt/principalTachi.png)
 
 > [!NOTE]
 > The majority of these choices do not affect which heroine's route you end up on, and are merely focused on collecting extra CGs.

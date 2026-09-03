@@ -1,7 +1,7 @@
-# **Akatsuki no Goei**
+# **Akatsuki no Goei Tsumibukaki Shuumatsuron**
 
 ## **Route Guideline**
-![Cover Art](.imgs/coverArt/tsumibukaki.jpg)
+![Cover Art](.imgs/coverArt/tsumibukaki.png)
 
 ### **Nikaidou Reika - bad end**
 ![Reika](.imgs/charArt/reika.jpg)
