@@ -1,13 +1,16 @@
-
 # **Café Stella and the Reapers' Butterflies**
+
 ![Cafe Stella Cover Art](.imgs/coverArt/cafeStella.jpg)
 
 ## **ROUTE GUIDELINE**
+
 > [!NOTE]
 > Must clear one route before bonus route (Suzune) is available.
 
 ### **Akizuki Kanna**
+
 ![Kanna](.imgs/charArt/cafeStella/kanna.jpg)
+
 * Part with my memories
 * **[SAVE 1]**
 * Accept the job offer
@@ -20,7 +23,9 @@
 * Go home with Suzune-san
 
 ### **Shiki Natsume**
+
 ![Natsume](.imgs/charArt/cafeStella/natsume.jpg)
+
 * **[LOAD 2]**
 * The black tea
 * **[SAVE 4]**
@@ -31,7 +36,9 @@
 * Go home with Suzune-san
 
 ### **Sumizome Nozomi**
+
 ![Nozomi](.imgs/charArt/cafeStella/nozomi.jpg)
+
 * **[LOAD 3]**
 * Practice with Nozomi
 * Hone my waiter skill
@@ -39,7 +46,9 @@
 * Walk Nozomi home
 
 ### **Hiuchidani Mei**
+
 ![Mei](.imgs/charArt/cafeStella/mei.jpg)
+
 * **[LOAD 4]**
 * Practice with Mei
 * Check on the dining floor
@@ -47,17 +56,21 @@
 * Go home with Suzune-san
 
 ### **Shioyama Suzune (Bonus Route)**
+
 ![Suzune](.imgs/charArt/cafeStella/suzune.jpg)
+
 * **[LOAD 5]**
 * Practice cooking as usual
 * Take my break now
 * Go home with Suzune-san
 
 ### Bad End
+
 * **[LOAD 1]**
 * Refuse the job offer
 
 ### Normal End
+
 * **[LOAD 5]**
 * Practice cooking as usual
 * Walk Nozomi home

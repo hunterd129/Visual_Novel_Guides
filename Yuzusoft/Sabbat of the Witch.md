@@ -1,12 +1,16 @@
 # **Sabbat of the Witch**
+
 ![Sabbat of the Witch cover Art](.imgs/coverArt/sabbatOfTheWitch.jpg)
 
 ## **Route Guideline**
+
 > [!NOTE]
 > Must clear one route before bonus route (Wakana) is available.
 
 ### **Ayachi Nene**
+
 ![Nene](.imgs/charArt/sabbatOfTheWitch/nene.jpg)
+
 * Sincerely compliment her again
 * **[SAVE 1]**
 * Ask Ayachi-san to do it
@@ -23,10 +27,13 @@
 * Probably Ayachi-san
 
 ### **Ayachi Nene 2nd Route**
+
 * Select **RESTART** from title screen
 
 ### **Inaba Meguru**
+
 ![Meguru](.imgs/charArt/sabbatOfTheWitch/meguru.jpg)
+
 * **[LOAD 1]**
 * Keep working with Inaba-san
 * … This is difficult
@@ -41,17 +48,23 @@
 * Inaba-san, I guess
 
 ### **Shiiba Tsumugi**
+
 ![Tsumugi](.imgs/charArt/sabbatOfTheWitch/tsumugi.jpg)
+
 * **[LOAD 3]**
 * The band is more important
 
 ### **Togakushi Touko**
+
 ![Touko](.imgs/charArt/sabbatOfTheWitch/touko.jpg)
+
 * **[LOAD 4]**
 * Hmm… Togakushi-senpai?
 
 ### **Kariya Wakana (Bonus Route)**
+
 ![Wakana](.imgs/charArt/sabbatOfTheWitch/wakana.jpg)
+
 * **[LOAD 2]**
 * Eat something first
 * Maybe, yeah
@@ -60,6 +73,6 @@
 * Have Togakushi-senpai tutor me
 
 ### **Normal Ending**
+
 * **[LOAD 4]**
 * The band is more important
-

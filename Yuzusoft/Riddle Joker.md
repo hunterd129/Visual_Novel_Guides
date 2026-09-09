@@ -1,13 +1,17 @@
 
 # **Riddle Joker**
+
 ![Riddle Joker Cover Art](.imgs/coverArt/riddleJoker.jpg)
 
 ## **ROUTE GUIDELINE**
+
 > [!NOTE]
 > Must clear one route before Bonus route (Chisaki) is available.
 
 ### **Mitsukasa Ayase**
+
 ![Ayase](.imgs/charArt/riddleJoker/ayase.jpg)
+
 * **[SAVE 1]**
 * Continue the test with Shikibe-senpai
 * **[SAVE 2]**
@@ -20,7 +24,9 @@
 * Mayu-senpai
 
 ### **Arihara Nanami**
+
 ![Nanami](.imgs/charArt/riddleJoker/nanami.jpg)
+
 * **[LOAD 1]**
 * Ask Nanami if she wants to try
 * **[SAVE 5]**
@@ -30,18 +36,24 @@
 * Mayu-senpai
 
 ### **Nijouin Hazuki**
+
 ![Hazuki](.imgs/charArt/riddleJoker/hazuki.jpg)
+
 * **[LOAD 3]**
 * Nijouin-san
 
 ### **Shikibe Mayu**
+
 ![Mayu](.imgs/charArt/riddleJoker/mayu.jpg)
+
 * **[LOAD 4]**
 * Go to the lab and ask Mayu-senpai
 * Mayu-senpai
 
 ### **Mibu Chisaki (Bonus Route)**
+
 ![Chisaki](.imgs/charArt/riddleJoker/chisaki.jpg)
+
 * **[LOAD 5]**
 * Ask her
 * Don't bother
@@ -50,6 +62,7 @@
 * Mibu-san
 
 ### **Normal End**
+
 * **[LOAD 6]**
 * Go to the president's room and ask Mitsukasa-san
 * How about something differnet today?

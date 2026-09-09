@@ -1,10 +1,13 @@
 # **Akatsuki no Goei Tsumibukaki Shuumatsuron**
 
 ## **Route Guideline**
+
 ![Cover Art](.imgs/coverArt/tsumibukaki.png)
 
 ### **Nikaidou Reika - bad end**
+
 ![Reika](.imgs/charArt/reika.jpg)
+
 * I should recap what happened
 * … I should accompany her
 * Jogging time
@@ -37,7 +40,9 @@
 * Head to the shopping district with everyone
 
 ### **Miyagawa Kiyomi**
+
 ![Kiyomi](.imgs/charArt/kiyomi.jpg)
+
 * **[LOAD 1]**
 * Train Station
 * I shoulnd't do this
@@ -55,7 +60,9 @@
 * Should I take a peek?
 
 ### **Hiiragi Akemi**
+
 ![Akemi](.imgs/charArt/akemi.jpg)
+
 * **[LOAD 1]**
 * Acamdemy
 * I shouldn't do this
@@ -73,12 +80,16 @@
 * Head to New Rise
 
 ### **Tamiya Sayo**
+
 ![Sayo](.imgs/charArt/sayo.jpg)
+
 * **[LOAD 7]**
 * Talk for a little longer
 
 ### **Shion**
+
 ![Shion](.imgs/charArt/shion.jpg)
+
 * **[LOAD 2]**
 * Two options is better
 * Go to Ryuu's room
@@ -98,7 +109,9 @@
 * Squeeze her tits (X3)
 
 ### **Nanjou Kaoru**
+
 ![Kaoru](.imgs/charArt/kaoru.jpg)
+
 * **[load 3]**
 * Call Kaoru
 * … Could we be something more?
@@ -117,8 +130,11 @@
 * Stay here
 
 ### **Nikaidou Reika - true end**
+
 ![Reika](.imgs/charArt/reika.jpg)
+
 > **NOTE: Must clear Kaoru & Reika bad end**
+
 * **[LOAD 5]**
 * Talk to her
 * Sit with Yuuki
@@ -126,8 +142,11 @@
 * Stay here
 
 ### **Mai**
+
 ![Mai](.imgs/charArt/mai.jpg)
+
 > **NOTE: Must clear Reika true end**
+
 * **[LOAD 4]**
 * Shouko requires my attention now
 * Collecting things
@@ -138,7 +157,9 @@
 * Mai
 
 ### **Souma Kaede**
+
 ![Kaede](.imgs/charArt/kaede.jpg)
+
 * **[LOAD 8]**
 * Check the Prohibited Zone out
 * I shouldn't press my luck
@@ -146,7 +167,9 @@
 * Kaede
 
 ### **Anzu**
+
 ![Anzu](.imgs/charArt/anzu.jpg)
+
 * **[LOAD 8]**
 * Grab a bite
 * I shouldn't press my luck
@@ -154,16 +177,22 @@
 * Anzu
 
 ### **Kanako**
+
 ![Kanako](.imgs/charArt/kanako.jpg)
+
 * **[LOAD 9]**
 * Kanako
 
 ### **Haku**
+
 ![Haku](.imgs/charArt/haku.jpg)
+
 * **[LOAD 9]**
 * Haku
 
 ### **Nakazato Shouko**
+
 ![Shouko](.imgs/charArt/shouko.jpg)
+
 * **[LOAD 9]**
 * Shouko
