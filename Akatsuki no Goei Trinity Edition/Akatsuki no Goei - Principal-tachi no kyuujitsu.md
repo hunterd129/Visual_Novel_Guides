@@ -30,7 +30,8 @@
 > In main menu go to Extra, Scene Replay, Extra,
 > select "a plan to get closer to Reika"
 >
-> keep rejecting Takanori until a notification occurs
+> keep rejecting Takanori until a notification occurs.
+> 
 > Takanori bonus scene is found in main menu under `Extra, Scene Replay, Extra`
 
 ### **Kurayashiki Tae**
