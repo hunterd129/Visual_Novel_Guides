@@ -22,12 +22,13 @@
 * I'm good for now.
 * Noa.
 * **[SAVE 3]**
-* I want to.
+* I want to, but...
 
 #### **Noa Bad End**
 
 * **[LOAD 3]**
-* I want to, but...
+* I want to
+* Do as she wishes
 
 ### **Tanikaze Amane**
 
