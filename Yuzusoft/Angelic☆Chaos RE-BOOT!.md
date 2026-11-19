@@ -77,6 +77,7 @@
 * Tell her she looks good.
 * Look by myself.
 * **[SAVE 7]**
+* Say it.
 
 ### **Ozato Fumika (Bonus Route)**
 
