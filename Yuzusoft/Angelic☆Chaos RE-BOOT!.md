@@ -39,11 +39,10 @@
 * Inquire further.
 * I can't show her.
 * Extend an invite.
-* **[SAVE 4]**
 * Do it myself.
-* **[SAVE 5]**
+* **[SAVE 4]**
 * I'm good for now.
-* **[SAVE 6]**
+* **[SAVE 5]**
 * Amane?
 * Ask about something bothering me.
 * Go with her.
@@ -52,7 +51,7 @@
 
 ![Kurumi](.imgs/charArt/angelicChaos/kurumi.jpg)
 
-* **[LOAD 6]**
+* **[LOAD 5]**
 * Kohibari-san
 * Tell her she looks good.
 * Stay and watch over everyone's belongings.
@@ -75,18 +74,18 @@
 
 ![Orie](.imgs/charArt/angelicChaos/orie.jpg)
 
-* **[LOAD 6]**
+* **[LOAD 5]**
 * Orie.
 * Tell her she looks good.
 * Look by myself.
-* **[SAVE 7]**
+* **[SAVE 6]**
 * Say it.
 
 ### **Ozato Fumika (Bonus Route)**
 
 ![Fumika](.imgs/charArt/angelicChaos/fumika.jpg)
 
-* **[LOAD 5]**
+* **[LOAD 4]**
 * I have some questions.
 * Noa.
 * Tell her she looks good.
@@ -101,5 +100,5 @@
 
 ### **Normal End**
 
-* **[LOAD 7]**
+* **[LOAD 6]**
 * Don't say it.
