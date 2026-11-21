@@ -69,7 +69,6 @@
 * Ask her.
 * I'm good for now.
 * Kaguya.
-* Ask about something bothering me.
 * Go with her.
 
 ### **Takadate Orie (Bonus Route)**
@@ -99,10 +98,6 @@
 
 * **[LOAD 1]**
 * I can't resist!
-
-### **Scene Collection**
-
-* **[LOAD 2]**
 
 ### **Normal End**
 
