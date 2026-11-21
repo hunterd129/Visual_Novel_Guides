@@ -61,7 +61,11 @@
 
 ![Kaguya](.imgs/charArt/angelicChaos/kaguya.jpg)
 
-* **[LOAD 4]**
+* **[LOAD 2]**
+* Start with Schtoria.
+* Enough is enough.
+* I can't show her.
+* No need to bother.
 * Ask her.
 * I'm good for now.
 * Kaguya.
@@ -99,7 +103,6 @@
 ### **Scene Collection**
 
 * **[LOAD 2]**
-* Start with Schtoria.
 
 ### **Normal End**
 
